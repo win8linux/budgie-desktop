@@ -22,7 +22,7 @@ namespace Budgie {
 				content_id: "raven",
 				title: "Raven",
 				display_weight: 3,
-				icon_name: "preferences-calendar-and-tasks" // Subject to change
+				icon_name: "office-calendar" // Subject to change
 			);
 
 			border_width = 0;
